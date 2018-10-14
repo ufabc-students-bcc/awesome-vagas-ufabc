@@ -41,7 +41,7 @@ Espaço para divulgação de vagas para discentes da UFABC. [Vagas aqui](https:/
 
 ### :page_facing_up: Licenciamento
 
-Esse projeto tem licenciamento previsto pela MIT License - veja em [LICENSE.md](https://github.com/ufabc-students-bcc/awesome-vagas-ufabc/blob/master/LICENSE) para detalhes. Divirtam-se. 
+Esse projeto tem licenciamento previsto pela Unlicense - veja em [LICENSE.md](https://github.com/ufabc-students-bcc/awesome-vagas-ufabc/blob/master/LICENSE) para detalhes. Divirtam-se. 
 
 ---
 
