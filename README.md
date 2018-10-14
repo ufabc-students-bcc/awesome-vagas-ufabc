@@ -4,7 +4,7 @@ Espaço para divulgação de vagas para discentes da UFABC.
 
 ---
 
-### Estou buscando um emprego bacana!
+### :eyes: Estou buscando um emprego bacana!
 
 0. Siga esse repositório! As notificações podem ajudar na sua busca.
 
@@ -12,7 +12,7 @@ Espaço para divulgação de vagas para discentes da UFABC.
 
 ---
 
-### Adicionando Vagas && Regras!
+### :pencil2: Adicionando Vagas && Regras!
 
 0. Abra uma [issue](https://github.com/ufabc-students-bcc/awesome-vagas-ufabc/issues) seguindo o seguinte padrão para o seu título.
 	- [ NOME DA EMPRESA ] Título da Vaga;
@@ -24,7 +24,7 @@ Espaço para divulgação de vagas para discentes da UFABC.
 
 2. Se você estiver *apenas repassando* a vaga, certifique-se de:
 	- Verificar se os itens anteriores estão sendo seguidos;
-	- Verificar se a vaga específica qual a empresa contratante;
+	- Verificar se a vaga especifica qual a empresa contratante;
 	- Verificar se a vaga segue as diretrizes do [Código de Conduta do codamos.club](https://www.codamos.club/codigo-de-conduta);
 	- Inserir labels para facilitar eventuais filtros de vagas.
 
@@ -53,6 +53,6 @@ Para mudanças mais complexas, por favor, abra uma **issue** para que possamos d
 
 ---
 
-### :: Agradecimentos
+### :tada: Agradecimentos
 
 Esse repositório só foi possível graças ao repositório da [Front-End Brasil](https://github.com/frontendbr/vagas). Um grande agradecimento à esse projeto incrível!
