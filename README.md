@@ -1,6 +1,6 @@
 ![ufabc.vagas](https://i.imgur.com/nDJekuZ.png)
 
-Espaço para divulgação de vagas para discentes da UFABC.
+Espaço para divulgação de vagas para discentes da UFABC. [Vagas aqui](https://github.com/ufabc-students-bcc/awesome-vagas-ufabc/issues).
 
 ---
 
@@ -9,6 +9,8 @@ Espaço para divulgação de vagas para discentes da UFABC.
 0. Siga esse repositório! As notificações podem ajudar na sua busca.
 
 ![Como seguir o Repositório](https://help.github.com/assets/images/help/notifications/watcher_picker.gif)
+
+1. [Vagas estão listadas aqui](https://github.com/ufabc-students-bcc/awesome-vagas-ufabc/issues).
 
 ---
 
